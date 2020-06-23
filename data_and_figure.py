@@ -26,7 +26,7 @@ server_map = {
 }
 
 client = AcsClient(
-   "LTAI4GKiFzLqrqzdLPmGKbZY",
+   "******",
    "xxxx",
    "cn-shanghai"
 )
