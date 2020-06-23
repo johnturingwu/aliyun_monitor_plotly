@@ -17,12 +17,7 @@ import os
 from matplotlib.ticker import FuncFormatter
 from datetime import datetime, timedelta
 server_map = {
-      'ProxyServer': 'i-uf6i5pdzxt7wl8mrwyd6',
-      'SuperServer': 'i-uf6e56zt7ebjroux7hms',
-      'SessionServer': 'i-uf6gqdcyg7w4vlswhokf',
-      'GateServer': 'i-uf615k84gwecwb2bz8bd',
-      'RecordServer': 'i-uf6e56zt7ebjroux7lwg',
-      'SceneServer': 'i-uf6bzs5dnocyk6cuizig'
+      'ProxyServer': 'i-uxxxxxx',
 }
 
 client = AcsClient(
